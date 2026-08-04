@@ -41,9 +41,8 @@ An interactive HTML-based educational simulator for exploring the internal anato
 
 ## 🛠️ Credits & Acknowledgments
 
-* **Claude Sonnet** — Debugging, architecture, and implementation support.
-* **Replit** — Rapid prototyping and development workflow.
-* **OpenAI** — Scientific validation, educational design, image generation, debugging, and logic refinement.
+* **Claude Sonnet 5.0** — Debugging, architecture, and implementation support.
+* **OpenAI** — Base Image generation, Scientific validation, debugging, and logic refinement.
 
 ---
 
