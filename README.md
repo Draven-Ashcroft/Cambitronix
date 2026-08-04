@@ -31,10 +31,10 @@ An interactive HTML-based educational simulator for exploring the internal anato
 
 ---
 
-## 🚀 Built With & Hosted On
+## 🚀 Build & Hosting
 
 * **Repository:** GitHub
-* **Hosting:** Vercel
+* **Hosting:** Github Pages
 * **Frontend:** HTML, CSS & JavaScript
 
 ---
